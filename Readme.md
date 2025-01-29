@@ -16,15 +16,15 @@ link
 
 For ppl using python [here](https://duo-labs.github.io/py_webauthn/registration.html)
 
-##Example site [To do:]
+## Example site [To do:]
 
-##Doc/Useful Links:
+## Doc/Useful Links:
 
 For now https://webauthn.io/ as an example
 
 [blog](https://duo.com/blog/developments-to-webauthn-and-the-fido2-framework)
 
-##For Testing
+## For Testing
 If you don’t have anything to test it with 
 	Use a browser extension like Bitwarden or 1password(free with GitHub education perks
 	also use your phone as an authenticator with your browser by using QR code options like this(https://www.youtube.com/watch?v=ywQ8bFla-L8)
