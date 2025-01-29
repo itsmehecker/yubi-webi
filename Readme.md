@@ -8,7 +8,6 @@ implement passkey authentication for your app/website and get yourself a shiny y
 - Language: Any as long as it works
 
 ## Docs:
-link
 
 [webauthn](https://webauthn.guide/)
 
